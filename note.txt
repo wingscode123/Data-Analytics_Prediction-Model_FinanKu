@@ -1,0 +1,10 @@
+get_dummies = berfungsi untuk mengencoding data
+
+Solusi pengembangan kedepannya yang bisa dilakukan di antaranya:
+
+1. Memperbanyak sample (jumlah nasabah dgn asumsi dataset yang tersedia saat ini bukan total populasi nasabah)
+2. Melakukan oversampling terhadap kelas minoritas (gagal bayar) agar pembangunan model tidak bias
+3. Memperluas horizon waktu
+4. Mencoba variasi variabel lainnya (menambah variabel baru, atau membuang variabel yang memiliki nilai importance rendah pada hasil terakhir)
+5. Mencoba memperluas kombinasi hyperparameter dalam pembangunan model
+6. Mencoba algoritma supervised machine learning lainnya
